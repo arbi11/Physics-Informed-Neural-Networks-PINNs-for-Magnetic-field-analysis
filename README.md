@@ -1,0 +1,1 @@
+# Physics-Informed-Neural-Networks-PINNs-for-Magnetic-field-analysis
